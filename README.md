@@ -1,22 +1,33 @@
-# Video Game Sales Analysis
+# 🎮 Video Game Sales Analysis
 
-This project analyzes global video game sales data using Python, SQL, and data visualization.
+This project analyzes global video game sales data using **Python**, **SQL**, and **Power BI**.
 
-## Tools Used
+## 📊 Tools & Technologies
 - Python (Pandas, Matplotlib)
-- SQL
+- SQL (MySQL)
 - Power BI
+- GitHub
 
-## Analysis Performed
-- Top 10 games by global sales
-- Platform-wise sales analysis
+## 📁 Project Structure
+- `python/` – Data cleaning, merging, and analysis scripts
+- `sql/` – SQL queries used for analysis
+- `screenshots/` – Output graphs and SQL results
+- `powerbi/` – Power BI dashboard (to be added)
+
+## 📈 Analysis Performed
+- Top 10 video games by global sales
+- Platform-wise total sales
 - Year-wise global sales trend
+- SQL-based insights on ratings, popularity, and reviews
 
-## Folder Structure
-- data/ : CSV datasets
-- python/ : Data cleaning and analysis scripts
-- sql/ : SQL queries
-- screenshots/ : Output graphs and query results
+## 🧠 Key Insights
+- PS2 and Xbox 360 dominate global sales
+- Sales peaked around 2008–2010
+- Action and Sports games are most popular globally
 
-## Author
-Vikas Surushe
+## 📸 Sample Outputs
+Graphs and SQL query outputs are available in the `screenshots` folder.
+
+## 👤 Author
+**Vikas Surushe**  
+Video Game Sales Analysis Project
